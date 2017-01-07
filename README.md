@@ -6,16 +6,16 @@ Available commands are:
 
 >mkfs
 
->mkdir <dirname>
+>mkdir \<dirname>
 
->cd <dirname>
+>cd \<dirname>
 
->stat <dirname> OR <filename>
+>stat \<dirname> OR \<filename>
 
 >ls
 
->mkfile <filename>
+>mkfile \<filename>
 
->rmfile <filename>
+>rmfile \<filename>
 
 >exit
