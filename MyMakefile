@@ -1,0 +1,7 @@
+all: project
+
+project: project.o
+	g++ project.o -o project
+
+project.o: project.cpp
+	g++ -c project.cpp
